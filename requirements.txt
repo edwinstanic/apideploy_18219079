@@ -12,9 +12,8 @@ passlib==1.7.4
 pyasn1==0.4.8
 pycparser==2.20
 pydantic==1.8.2
-PyJWT==1.7.1
-python-decouple==3.3
 python-jose==3.3.0
+python-multipart==0.0.5
 rsa==4.7.2
 six==1.16.0
 sniffio==1.2.0
